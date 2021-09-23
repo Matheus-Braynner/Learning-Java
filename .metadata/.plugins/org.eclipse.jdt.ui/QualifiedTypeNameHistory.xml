@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.rectangle"/>
+    <fullyQualifiedTypeName name="entities.employee"/>
+    <fullyQualifiedTypeName name="entities.student"/>
+    <fullyQualifiedTypeName name="entities.converter"/>
+    <fullyQualifiedTypeName name="entities.bank"/>
+    <fullyQualifiedTypeName name="entities.libraly"/>
+    <fullyQualifiedTypeName name="entities.Triangle"/>
+    <fullyQualifiedTypeName name="entities.Products"/>
+    <fullyQualifiedTypeName name="entities.product"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entities.hostel"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
