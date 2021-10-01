@@ -29,6 +29,14 @@ public class Program {
 				System.out.println("y2: " + y2);
 				System.out.println("y3: " + y3);
 				System.out.println("-----------------------------");
+				System.out.println("x1: " + sdf1.format(x1));
+				System.out.println("x2: " + sdf1.format(x2));
+				System.out.println("x3: " + sdf1.format(x3));
+				System.out.println("x4: " + sdf1.format(x4));
+				System.out.println("y1: "+ sdf1.format(y1));
+				System.out.println("y2: "+ sdf1.format(y2));
+				System.out.println("y3: "+ sdf1.format(y3));
+				System.out.println("-----------------------------");
 				System.out.println("x1: " + sdf2.format(x1));
 				System.out.println("x2: " + sdf2.format(x2));
 				System.out.println("x3: " + sdf2.format(x3));
